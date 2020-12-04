@@ -7,7 +7,7 @@ export default SplashBlueprintNavigator = createStackNavigator(
     Splash: { screen: Splash }
   },
   {
-    initialRouteName: "Splash",
+    initialRouteName: "CbSplashScreen1182121",
     defaultNavigationOptions: ({ navigation }) => ({ header: null }),
   }
 );
